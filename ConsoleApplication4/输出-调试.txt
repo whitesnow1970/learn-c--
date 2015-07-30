@@ -1,0 +1,7 @@
+﻿“ConsoleApplication4.exe”(Win32):  已加载“D:\documents\visual studio 2013\Projects\ConsoleApplication4\Debug\ConsoleApplication4.exe”。已加载符号。
+“ConsoleApplication4.exe”(Win32):  已加载“C:\Windows\SysWOW64\ntdll.dll”。无法查找或打开 PDB 文件。
+“ConsoleApplication4.exe”(Win32):  已加载“C:\Windows\SysWOW64\kernel32.dll”。无法查找或打开 PDB 文件。
+“ConsoleApplication4.exe”(Win32):  已加载“C:\Windows\SysWOW64\KernelBase.dll”。无法查找或打开 PDB 文件。
+“ConsoleApplication4.exe”(Win32):  已加载“C:\Windows\SysWOW64\msvcp120d.dll”。无法查找或打开 PDB 文件。
+“ConsoleApplication4.exe”(Win32):  已加载“C:\Windows\SysWOW64\msvcr120d.dll”。无法查找或打开 PDB 文件。
+程序“[5568] ConsoleApplication4.exe”已退出，返回值为 0 (0x0)。
